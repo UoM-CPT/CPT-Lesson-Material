@@ -17,10 +17,6 @@ Welcome to the Competitive Programming Team Archive repository! 🚀 This reposi
 
 This repository is licensed under the [MIT License](LICENSE), which means that you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. However, we kindly ask that you attribute the repository if you use its code in your own projects.
 
-## Acknowledgements
-
-We would like to express our gratitude to the creators of the algorithms, data structures, and competitive programming problems that are included in this repository. Without their contributions to the field, this repository would not be possible.
-
 ---
 
 Get involved, explore the code, and elevate your competitive programming skills with the Competitive Programming Team Archive! 🏆
