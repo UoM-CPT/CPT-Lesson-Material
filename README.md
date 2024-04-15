@@ -4,9 +4,9 @@ Welcome to the Competitive Programming Team Archive repository! 🚀 This reposi
 
 ## Features
 
-- **Well-Organized Structure**: The repository is neatly organized into folders based on problem categories, making it easy to navigate and find solutions to specific types of problems, such as dynamic programming, graph theory, and string manipulation. 
+- **Well-Organized Structure**: The repository is neatly organized into folders based on the lesson they were explained in, making it easy to navigate and find solutions.
 
-- **Detailed Documentation**: Each solution is accompanied by detailed comments that explain the algorithmic approach, time and space complexity analysis, and any relevant insights or optimizations. This ensures that you not only understand how the solution works but also why it works efficiently.
+- [Coming Soon!] **Detailed Documentation**: Each solution is accompanied by detailed comments that explain the algorithmic approach, time and space complexity analysis, and any relevant insights or optimizations. This ensures that you not only understand how the solution works but also why it works efficiently.
 
 - **Tested Solutions**: All solutions undergo rigorous testing to ensure correctness and efficiency. You can trust that the code provided in this repository has been thoroughly vetted and is ready for use.
 
