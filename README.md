@@ -1,6 +1,6 @@
 # Competitive Programming Team Archive
 
-Welcome to the Competitive Programming Team Archive repository! 🚀 This repository serves as a comprehensive collection of algorithms, data structures, and solutions to a wide range of competitive programming problems from various online platforms such as Codeforces, AtCoder, and LeetCode. Whether you're a seasoned competitor looking to optimize your solutions or a newcomer eager to learn and improve, this repository is your ultimate resource for mastering the art of algorithmic problem solving.
+Welcome to the Competitive Programming Team Archive repository! 🚀 This repository serves as a comprehensive collection of algorithms, data structures, and solutions to a wide range of competitive programming problems from various platforms like IEEE and LeetCode. Whether you're a seasoned competitor looking to optimize your solutions or a newcomer eager to learn and improve, this repository is your ultimate resource for mastering the art of algorithmic problem solving.
 
 ## Features
 
