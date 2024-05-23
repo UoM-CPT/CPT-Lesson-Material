@@ -1,0 +1,27 @@
+public static void main (String[] args) throws java.lang.Exception {
+	    Scanner in = new Scanner(System.in);
+		int N = in.nextInt();
+		int M = in.nextInt();
+		int K = in.nextInt();
+		String matrixTemp;
+		int[][] coordinates = new int[K][2];
+		char[][] matrix = new char[N][M];
+		
+		for(int i = 0; i < N; i++){
+			matrixTemp = in.next();
+		    for(int j = 0; j < M; j++){
+		    	matrix[i][j] = matrixTemp.charAt(j);
+		    }
+		    
+		}
+		
+		
+		for(int i = 0; i < K; i++) {
+			for(int j = 0; j < 2; j++){
+		    	coordinates[i][j] = in.nextInt();
+		    }
+		}
+
+		
+		
+	}
